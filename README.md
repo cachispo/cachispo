@@ -17,7 +17,7 @@
 
 ---
 ## Contacto
-   ✉️58joserc@gmail.com
+   ✉️[Correo](mailto:58joserc@gmail.com)
    📝[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-rodr%C3%ADguez-679b5735a/)
 ---
 
