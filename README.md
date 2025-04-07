@@ -17,8 +17,8 @@
 
 ---
 ## Contacto
-   ✉️[Correo](mailto:58joserc@gmail.com)
-   📝[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-rodr%C3%ADguez-679b5735a/)
+1. ✉️[Correo](mailto:58joserc@gmail.com)
+2. 📝[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-rodr%C3%ADguez-679b5735a/)
 ---
 
 > Oh, sí, el pasado puede doler. Pero tal cómo yo lo veo puedes o huir de él o aprender.
