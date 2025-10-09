@@ -1,5 +1,5 @@
 # ¡Hola! Soy José.
-## - 🌱 Estoy aprendiendo.
+## - 🌱 Estoy aprendiendo...
 ### - Técnico en Sistemas Microinformáticos y Redes
 ### - Futuro Técnico Superior en Administración de Sistemas Informáticos en Red
 
