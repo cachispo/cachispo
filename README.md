@@ -11,7 +11,9 @@
 |-----:|-----------|
 |     1| Bash      |
 |     2| JavaScript|
-|     3| CODE-2    |
+|     3| Java      |
+|     4| Python    |
+|     5| CODE-2    |
 
 </details>
 
