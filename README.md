@@ -9,10 +9,10 @@
  
 | Rank | Lenguajes |
 |-----:|-----------|
-|     1| Bash      |
-|     2| JavaScript|
+|     1| Python    |
+|     2| Bash      |
 |     3| Java      |
-|     4| Python    |
+|     4| JavaScript|
 |     5| CODE-2    |
 
 </details>
